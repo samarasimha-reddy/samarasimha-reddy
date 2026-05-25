@@ -20,6 +20,7 @@ Backend Software Engineer at **Walmart Global Tech**, building event-driven plat
 - 🌱 Currently exploring service meshes (Istio), eBPF observability, and Rust for systems programming
 - 💡 Interested in developer infrastructure, streaming systems, and large-scale commerce backends
 - 📍 Based in San Jose, CA
+- 🎓 M.S. Information Systems — Trine University
 
 ---
 
@@ -91,12 +92,18 @@ Backend Software Engineer at **Walmart Global Tech**, building event-driven plat
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarasimha-reddy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarasimha-reddy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img height="170" src="https://streak-stats.demolab.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimha-reddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimha-reddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
 </p>
 
 <p align="center">
