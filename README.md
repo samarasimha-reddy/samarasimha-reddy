@@ -20,7 +20,6 @@ Backend Software Engineer at **Walmart Global Tech**, building event-driven plat
 - 🌱 Currently exploring service meshes (Istio), eBPF observability, and Rust for systems programming
 - 💡 Interested in developer infrastructure, streaming systems, and large-scale commerce backends
 - 📍 Based in San Jose, CA
-- 🎓 M.S. Information Systems — Trine University
 
 ---
 
