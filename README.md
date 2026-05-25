@@ -15,7 +15,6 @@ Backend Software Engineer at Walmart Global Tech, building event-driven platform
 - 🔭 Working on distributed Rules Engine, exactly-once Kafka pipelines, and Solr Cloud search
 - 💡 Interested in developer infrastructure, streaming systems, and large-scale commerce backends
 - 📍 Based in San Jose, CA
-- 🎓 M.S. Information Systems — Trine University
 
 ---
 
