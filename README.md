@@ -6,21 +6,27 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=samarasimha-reddy&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-Backend Software Engineer at Walmart Global Tech, building event-driven platforms that process 200M+ daily messages on AWS EKS.
+Backend Software Engineer at **Walmart Global Tech**, building event-driven platforms that process **200M+ daily messages** on AWS EKS.
 
-- 🔭 Working on distributed Rules Engine, exactly-once Kafka pipelines, and Solr Cloud search
+- 🔭 Working on a distributed Rules Engine, exactly-once Kafka pipelines, and Solr Cloud search
+- 🌱 Currently exploring service meshes (Istio), eBPF observability, and Rust for systems programming
 - 💡 Interested in developer infrastructure, streaming systems, and large-scale commerce backends
 - 📍 Based in San Jose, CA
+- 🎓 M.S. Information Systems — Trine University
 
 ---
 
 ### 🛠️ Tech Stack
 
-Languages
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +34,7 @@ Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Backend & Frameworks
+**Backend & Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -39,13 +45,13 @@ Backend & Frameworks
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 
-Streaming & Search
+**Streaming & Search**
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kafka Streams](https://img.shields.io/badge/Kafka%20Streams-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Solr](https://img.shields.io/badge/Solr%20Cloud-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 
-Data & Caching
+**Data & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +60,7 @@ Data & Caching
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-Cloud & Infrastructure
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -63,7 +69,7 @@ Cloud & Infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-Observability & CI/CD
+**Observability & CI/CD**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -75,31 +81,27 @@ Observability & CI/CD
 
 ### 🚀 Selected Work
 
-- Distributed Rules Engine on AWS EKS — Java 17, Spring Boot, Kafka. 50M+ daily events. ~$1.2M annual operational savings.
-- Exactly-once Kafka → BigQuery pipelines — 200M+ daily catalog events, p99 < 500ms, 99.9% accuracy.
-- Zero-downtime SQL → Solr Cloud migration — 1.5TB hot table, dual-write + backfill. 45% p95 latency improvement, ~$400K/year saved.
-- Bloom filter Kafka audit system — drop/duplicate detection across 30+ topics. Cut MTTD by 70%.
-- Multi-tier Redis caching — 220ms → 130ms p95 during Black Friday peak (8× normal traffic).
+- **Distributed Rules Engine on AWS EKS** — Java 17, Spring Boot, Kafka. Processes 50M+ daily events. Delivered ~$1.2M annual operational savings.
+- **Exactly-once Kafka → BigQuery pipelines** — 200M+ daily catalog events with p99 < 500ms and 99.9% accuracy.
+- **Zero-downtime SQL → Solr Cloud migration** — 1.5TB hot table via dual-write + backfill. 45% p95 latency improvement, ~$400K/year saved.
+- **Bloom-filter Kafka audit system** — Drop/duplicate detection across 30+ topics. Cut MTTD by 70%.
+- **Multi-tier Redis caching** — 220ms → 130ms p95 during Black Friday peak (8× normal traffic).
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samarasimha-reddy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarasimha-reddy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimha-reddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samarasimha-reddy&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarasimha-reddy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
