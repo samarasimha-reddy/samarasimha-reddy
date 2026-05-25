@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+%7C+Kafka+%7C+JVM;Building+systems+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+%7C+Kafka+%7C+JVM;Building+systems+that+scale" alt="Typing SVG" />
 </a>
 </p>
 
@@ -92,18 +92,13 @@ Backend Software Engineer at **Walmart Global Tech**, building event-driven plat
 ### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarasimha-reddy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img height="170" src="https://streak-stats.demolab.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarasimha-reddy&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=samarasimha-reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimha-reddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarasimha-reddy&theme=tokyonight" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarasimha-reddy&theme=tokyonight&utcOffset=-8" alt="Productive Time" />
 </p>
 
 <p align="center">
